@@ -6,3 +6,6 @@ print("Porky 5")
 
 for numero in range(0,5):
     print(f"porky {numero}")
+
+for numero in range(0,5):
+    print(f"Cow {numero}")
